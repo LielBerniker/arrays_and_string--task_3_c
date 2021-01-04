@@ -28,5 +28,5 @@ for (int j = 0; j < ARR_SIZE; j++)
     else
     printf(",%d",*(arr+j));
 }
-    return 1;
+    return 0;
 }

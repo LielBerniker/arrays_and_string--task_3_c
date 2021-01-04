@@ -23,5 +23,5 @@ int main()
         choose_b(word);
     }
     
-    return 1;
+    return 0;
 }
